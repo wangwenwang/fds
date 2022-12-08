@@ -21,7 +21,7 @@
     "mint-ui": "^2.2.13",
     "open-browser-webpack-plugin": "0.0.5",
     "qrcodejs2": "0.0.2",
-    "qs": "^6.5.2",
+    "qs": "^6.5.3",
     "vue": "^2.5.16",
     "vue-baidu-map": "^0.21.11",
     "vue-photo-preview": "^1.1.3",
